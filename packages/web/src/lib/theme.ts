@@ -11,4 +11,5 @@ export const themes: Themes = {
   "ayuDark": codeMirrorThemes.ayuDark,
   "tokyo Night": codeMirrorThemes.tokyonight,
   "nord": codeMirrorThemes.nord,
+  "cobalt": codeMirrorThemes.cobalt,
 }
